@@ -1,0 +1,16 @@
+.document {
+  border: 1px solid #ccc;
+  padding: 10px;
+}
+
+.page {
+  border: 1px solid blue;
+  margin: 10px;
+  padding: 20px;
+}
+
+.select {
+  border: 1px solid red;
+  margin: 10px;
+  padding: 20px;
+}
